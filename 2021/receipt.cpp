@@ -27,4 +27,5 @@ int main() {
     std::cout << "TOTAL: $" << total << std::endl;
     std::cout << "Thank you for chosing Roger's Tax Inc!" << std::endl;
     std::cout << "100 Not A Partnership Ln. Danville, KY 40422" << std::endl;
+    return 0;
 }
